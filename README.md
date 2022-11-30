@@ -44,7 +44,7 @@ Para facilitar la tarea se incluyen algunas peticiones de ejemplo para cada serv
 {
 	"product_name": "nombre"
 }
-````
+```
 
 - -   **Streaming del cliente:**  con el servicio 
 clientSideStreamingCreateOrder
@@ -55,7 +55,7 @@ clientSideStreamingCreateOrder
 	"product_description": "2 5",
 	"product_price": 100
 }
-````
+```
 
 -   **Streaming bidireccional:**  con el servicio 
 bidirectionalStreamingUpdateStock
@@ -64,4 +64,4 @@ bidirectionalStreamingUpdateStock
 	"product_id": "2",
 	"stock_operation": "ADD",
 	"items_number": 100
-}````
+}```
